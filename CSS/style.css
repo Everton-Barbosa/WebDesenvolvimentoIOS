@@ -1,0 +1,38 @@
+h3 {
+    /*Altura*/
+    height: 50px;
+     /*Altura*/
+    width: 100%;
+    /*Cor do texto*/
+    color: #f3f3f3;
+    /*plano de fundo*/
+    background-color: #f10d0d;
+    /*Alinhamento do texto*/
+    text-align: center;
+}
+
+a {
+    /*Tirar a linha*/
+    text-decoration: none;
+    /*tamanho da fonte*/
+    font-size: 18px;
+}
+
+ul li a {
+    text-shadow: 2px 3px rgb(2, 2, 2);
+}
+
+p#escolhido {
+    background: purple;
+    border: 3px solid white;
+   
+}
+
+footer {
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
